@@ -1,6 +1,6 @@
 # Проект "Оно тебе надо"
 
 Ссылка на репозиторий:
-https://github.com/inc2848/ono-tebe-nado-ad-1
+https://github.com/inc2848/ono-tebe-nado-ad
 
 Автор: Будкин Данил Владимирович
